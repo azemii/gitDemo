@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     let userName = "New User Name"
     let userAge = 10
+    let lastName = "Hello"
     
     
     override func viewDidLoad() {

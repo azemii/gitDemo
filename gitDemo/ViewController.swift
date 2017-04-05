@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     let userName = "New User Name"
     let userAge = 10
     let lastName = "Hello"
+    let adress = "123 street"
     
     
     override func viewDidLoad() {

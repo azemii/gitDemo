@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     let userName = "armend the best"
+    let userAge = 10
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()

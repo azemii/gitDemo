@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let userName = "armend the best"
+    let userName = "New User Name"
     let userAge = 10
     
     
